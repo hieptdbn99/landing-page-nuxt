@@ -27,6 +27,14 @@
         </li>
         <li class="nav-item active">
           <NuxtLink
+            to="/pets"
+            class="nav-link"
+          >
+            Pets
+          </NuxtLink>
+        </li>
+        <li class="nav-item active">
+          <NuxtLink
             to="/my-item"
             class="nav-link"
           >

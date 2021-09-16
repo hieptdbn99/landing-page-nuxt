@@ -37,6 +37,7 @@ export default {
       smallCardInfo: smallCardSections
     }
   },
+
   methods: {
     updateSubmit (product) {
       console.log(product)
